@@ -3,7 +3,7 @@
 
 ## Overview
 
-This is an incomplete control panel system for an Escape Room. Program is designed to show progress of teams through a game, with options to skip electronic puzzles. Due to business fail in case of failure
+This is an incomplete control panel system for an Escape Room. Program is designed to show progress of teams through a game, with options to skip electronic puzzles.
 Due to business failure this repository will not be updated and is for demonstration only.
 
 ## Features
